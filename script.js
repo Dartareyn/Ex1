@@ -24,6 +24,7 @@ const   a = prompt ('Один из последних просмотренных
         personalMovieDB.movies[c] = d;
 
 console.log(personalMovieDB);
+// blablabla
 
 
 
